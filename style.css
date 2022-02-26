@@ -3,37 +3,28 @@
 	padding: 0;
 	font-family: Century Gothic;
 }
-header{
+body{
 	background-image: url(bg4.gif);
 	height: 300vh;
 	background-size: cover;
 	background-position: center;
 }
-.logo img{
- 	float: left;
- 	width: 150px;
- 	height: 100px;
-}
-.main{
- 	max-width: 1200px;
- 	margin: auto;
-}
 .title{
- 	font-size: 35px;
- 	color: #f5b100;
- 	position: absolute;
-	 top: 55%;
-	 left: 50%;
-	 transform: translate(-50%,-50%)
+    font-size: 35px;
+    color: #f5b100;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%)
 }
 .tag{
- 	position: absolute;
-	top: 75%;
-	left: 50%;
-	transform: translate(-50%,-50%);
-	color: #f5b100;
-	font-size: none;
-	font-size: 500%;
+    position: absolute;
+   top: 75%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   color: #f5b100;
+   font-size: none;
+   font-size: 500%;
 }
 .button{
 	position: absolute;
@@ -60,59 +51,59 @@ header{
 	font-size: 75%;
 }
 .name{
- 	position: absolute;
- 	left: 25%;
- 	top: 204%;
- 	color: #e8f500;
- 	font-style: italic;	 
- 	font-family: cursive;
+    position: absolute;
+    left: 25%;
+    top: 204%;
+    color: #e8f500;
+    font-style: italic;	 
+    font-family: cursive;
 }
 .nickname{
- 	position: absolute;
- 	left: 30%;
- 	top: 211%;
- 	color: #e8f500;
- 	font-style: italic;
- 	font-family: cursive;	 
+    position: absolute;
+    left: 30%;
+    top: 211%;
+    color: #e8f500;
+    font-style: italic;
+    font-family: cursive;	 
 }
 .favcmsc{
- 	position: absolute;
- 	left: 50%;
- 	top: 218%;
- 	color: #e8f500;
- 	font-style: italic;	
- 	font-family: cursive;	 
+    position: absolute;
+    left: 50%;
+    top: 218%;
+    color: #e8f500;
+    font-style: italic;	
+    font-family: cursive;	 
 }
 .favge{
- 	position: absolute;
- 	left: 40%;
- 	top: 224%;
- 	color: #e8f500;
- 	font-style: italic;	
- 	font-family: cursive;	 
+    position: absolute;
+    left: 40%;
+    top: 224%;
+    color: #e8f500;
+    font-style: italic;	
+    font-family: cursive;	 
 }
 .favlanguage{
- 	position: absolute;
- 	left: 60%;
- 	top: 231%;
- 	color: #e8f500;
- 	font-style: italic;	 
- 	font-family: cursive;	
+    position: absolute;
+    left: 60%;
+    top: 231%;
+    color: #e8f500;
+    font-style: italic;	 
+    font-family: cursive;	
 }
 .favfood{
- 	position: absolute;
- 	left: 30%;
- 	top: 238%;
- 	color: #e8f500;
- 	font-style: italic;	 
- 	font-family: cursive;	
+    position: absolute;
+    left: 30%;
+    top: 238%;
+    color: #e8f500;
+    font-style: italic;	 
+    font-family: cursive;	
 }
 .socmed{
- 	position: absolute;
- 	left: 45%;
- 	top: 250%;
- 	color: white;
- 	font-size: 60%;
-	font-style: italic;	
-	font-family: cursive;	 
+    position: absolute;
+    left: 45%;
+    top: 250%;
+    color: white;
+    font-size: 60%;
+   font-style: italic;	
+   font-family: cursive;	 
 }
